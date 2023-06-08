@@ -7,8 +7,7 @@
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bcsenkal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bcsenkal&icon=0&color=1)](https://visitcount.itsvg.in)
