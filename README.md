@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋I'm Bilal, an ambitious game developer working at Rocinante Games.<br><br>🎮I'm in love with games and as a game developer; analyzing game mechanics is my passion.<br><br>📘I have associate degree on Web Design and Programming. Self-educated on Unity and C#.<br><br><br><br>
+👋I'm Bilal, an ambitious game developer working at Rocinante Games.<br><br>🎮I'm in love with games and as a game developer; analyzing game mechanics is my passion.<br><br>📘I have associate degree on Web Design and Programming. Self-educated on Unity and C#.<br><br><br><br> 
 
 
 ## 🌐 Socials:
